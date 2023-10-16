@@ -1,0 +1,1 @@
+livingdoc test-assembly .\bin\Debug\net6.0\DemoQA.dll -t .\bin\Debug\net6.0\TestExecution.json
